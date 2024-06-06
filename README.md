@@ -20,12 +20,16 @@ You need to write the following commands on the terminal screen so that you can 
 ```
 
 #### Requirements
+
 - iOS 13.0+
 - Xcode 12.0+
 - Swift 5.0+
 
 #### Open in Xcode:
 Open the project in Xcode and run it on your simulator or device.
+
+<img width="306" alt="iOS-profile-app" src="https://github.com/adityasid/iOS-profile-app/assets/27645930/6f403df5-289f-4a9c-b765-73bb9511b559">
+
 
 #### Customize:
 Feel free to customize the app to add more features or modify the design according to your requirements.
